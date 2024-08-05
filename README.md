@@ -69,3 +69,7 @@ This repository contains a C-Language code base for future projects
 #### 2.4 --- Other Algorithms ---  
 
 2.4.1 Flood Fill -TODO-
+
+### 3. Math Utils
+
+### 4. Other utility functions
