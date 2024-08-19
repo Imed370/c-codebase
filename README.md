@@ -68,7 +68,11 @@ This repository contains a C-Language code base for future projects
 
 #### 2.4 --- Other Algorithms ---  
 
-2.4.1 Flood Fill -TODO-
+2.4.1 Flood Fill -TODO-  
+
+2.4.2 Text / Document Parsing -TODO-  
+
+2.4.3 Computer Vision -TODO-
 
 ### 3. Math Utils
 
