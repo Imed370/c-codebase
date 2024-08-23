@@ -6,7 +6,7 @@ This repository contains a C-Language code base for future projects
 
 ### 1 Data Structures  
 1.1 Linked Lists:
-[Link](/Basic-Concepts/Data-Structures/Linked-List)
+[Link](/data-structures/linked-list)
 -TODO-
 
 1.2 Stacks
