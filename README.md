@@ -74,6 +74,8 @@ This repository contains a C-Language code base for future projects
 
 2.4.3 Computer Vision -TODO-
 
+2.4.4 Moore Voting Algorithm -TODO-  
+
 ### 3. Math Utils
 
 ### 4. Other utility functions
