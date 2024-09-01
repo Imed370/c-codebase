@@ -56,15 +56,15 @@ This repository contains a C-Language code base for future projects
 
 2.2.2 Binary Search  -TODO-  
 
+2.2.3 Depth-First-Search -TODO-  
+
+2.2.4 Breadth-First-Search -TODO-  
+
 #### 2.3 --- Pathfinding & Graph Algorithms ---  
 
 2.3.1 Dijkstra's Algorithm -TODO-  
 
 2.3.2 A* Algorithm -TODO-  
-
-2.3.3 Depth-First-Search -TODO-  
-
-2.3.4 Breadth-First-Search -TODO-  
 
 #### 2.4 --- Other Algorithms ---  
 
