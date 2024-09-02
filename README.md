@@ -66,16 +66,50 @@ This repository contains a C-Language code base for future projects
 
 2.3.2 A* Algorithm -TODO-  
 
-#### 2.4 --- Other Algorithms ---  
+#### 2.4 --- Optimization Algorithms ---  
 
-2.4.1 Flood Fill -TODO-  
+#### 2.5 --- Other Algorithms ---  
 
-2.4.2 Text / Document Parsing -TODO-  
+2.5.1 Flood Fill -TODO-  
 
-2.4.3 Computer Vision -TODO-
+2.5.2 Text / Document Parsing -TODO-  
 
-2.4.4 Moore Voting Algorithm -TODO-  
+2.5.3 Computer Vision -TODO-
 
-### 3. Math Utils
+2.5.4 Moore Voting Algorithm -TODO-  
 
-### 4. Other utility functions
+### 3. Data Communication Protocols
+
+#### --- 3.1 Intra System Communication
+
+3.1.1 SPI - SERIAL PERIPHERAL INTERFACE  
+
+3.1.2 I2C  
+
+3.1.3 CAN  
+
+#### --- 3.2 Inter System Communication
+
+3.2.3 RS-232  
+
+3.2.1 UART  
+
+3.2.2 USB  
+
+3.2.4 RS-485  
+
+#### --- 3.3 Wireless Communication
+
+3.3.1 Infra Red  
+
+3.3.2 Simplified Wifi  
+
+3.3.3 Bluetooth Low Energy  
+
+3.3.4 LoRa  
+
+### 4. 
+
+### 5. Other utility functions
+
+
