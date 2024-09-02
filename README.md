@@ -78,6 +78,8 @@ This repository contains a C-Language code base for future projects
 
 2.5.4 Moore Voting Algorithm -TODO-  
 
+2.5.5 Pattern Recognition -TODO-  
+
 ### 3. Data Communication Protocols
 
 #### --- 3.1 Intra System Communication
